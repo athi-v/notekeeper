@@ -10,6 +10,7 @@ Right now you can add and delete a note. More features such  as update will be a
 
 <h3>Backend:</h3>
 <ul>
+<li>NodeJS</li>
   <li>MongoDB</li>
 </ul>
 
